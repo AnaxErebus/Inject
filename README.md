@@ -17,7 +17,7 @@ sudo chmod +x Injectapk.sh
 ./Injectapk.sh
 ```
 
-## Watch Full Video Guide on My YouTube Channel
 
-[![alt text](https://img.youtube.com/vi/X77ZUo82cyw/maxresdefault.jpg)](https://youtu.be/X77ZUo82cyw)
+
+
 
