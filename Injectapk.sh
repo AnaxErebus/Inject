@@ -13,7 +13,7 @@ cat << EOF
             _/ |                                     
            |__/                 Version : 1.0
                              Created By : Mehedi Shakeel
-                                YouTube : yt/mehedishakeel                   
+                                YouTube : ..............                   
 
 EOF
 sleep 2
