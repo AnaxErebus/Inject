@@ -11,9 +11,9 @@ cat << EOF
   _| |_| | | | |  __/ (__| |_   / ____ \| |    | . \ 
  |_____|_| |_| |\___|\___|\__| /_/    \_\_|    |_|\_\ 
             _/ |                                     
-           |__/                 Version : 1.0
+           |__/                 Version : I dont know :)
                              Created By : Mehedi Shakeel
-                                YouTube : ..............                   
+                            redesigned by : D3f4u!T                   
 
 EOF
 sleep 2
