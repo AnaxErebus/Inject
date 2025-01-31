@@ -11,8 +11,8 @@ Packages : metasploit-framework, apktool, default-jdk, aapt, apksigner, apache2
 ```
 git clone https://github.com/AnaxErebus/Inject.git
 cd Inject
-sudo chmod +x Inject.sh
-./Inject.sh
+sudo chmod +x Injectapk.sh
+./Injectapk.sh
 ```
 
 
